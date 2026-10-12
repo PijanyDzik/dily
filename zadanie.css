@@ -1,0 +1,18 @@
+header{
+    width:1000px;
+    background-color: blue;
+}
+main{
+    width:1000px;
+    background-color:white;
+    height: 800px;
+}
+footer{
+    width:1000px;
+    background-color: rgb(217, 255, 0);
+    height: 100px;
+}
+table{
+    background-color: brown;
+    color:rgb(128, 196, 128);
+}
